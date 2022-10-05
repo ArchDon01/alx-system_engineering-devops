@@ -1,2 +1,2 @@
-#!/bin/bsash
-mv ^[A-z]* /tmp/u
+#!/bin/bash
+mv ^[A-Z]* tmp/u

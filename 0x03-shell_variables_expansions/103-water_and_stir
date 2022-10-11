@@ -1,2 +1,2 @@
 #!/bin/bash
-alias bestchol="$(($WATER+$STIR))"
+alias bestchol="$((WATER + STIR))"
